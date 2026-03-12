@@ -12,7 +12,8 @@ Weather App provides a clean, responsive desktop interface for looking up curren
 
 ## 📸 Screenshot
 
-> _Add a screenshot of the running app here_
+<img width="3838" height="2076" alt="image" src="https://github.com/user-attachments/assets/4bcbdc76-98f8-43a7-8764-fdbf24fae3fe" />
+
 
 ---
 
